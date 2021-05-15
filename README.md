@@ -1,18 +1,18 @@
 ### Hi there I Am Kunal Sisodia <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">
 
 ![](https://komarev.com/ghpvc/?username=kunalsisodiaCSE&color=blue)
-<h3>A budding programmer exploring new fields of development.</h3>
+<h3>A budding programmer, exploring and learning new fields of development.</h3>
 
 
 
 - 🔭 I’m currently pursuing **B.Tech CSE at Lovely Professional University** 
-- 🌱 I’m currently learning **Problem Solving & Web Devlopment** 
-- 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for help with **web projects and competitive programing**
-- 🥅 2021 Goals: **Contribute more  projects & learn new stacks**
+- 🌱 I’m currently learning **ML & Web Devlopment** 
+- 👯 I’m looking to collaborate on **Web Development and DATA Structures**
+- 🤔 I’m looking for help with **Web Projects ,Data Structures and Competitive Programing**
+- 🥅 2021 Goals: **Contribute more  Projects and learn New Skills**
 - 💬 Ask me about Anything **either I recall or I learn**
 
-🕵 Take a look at my repositories and let's get in touch!
+🕵 Take a look @ my repositories and let's get in touch!
 
 [![Linkedin Badge](https://img.shields.io/badge/-kunalsisodia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalsisodia/)](https://www.linkedin.com/in/kunalsisodia/) 
 [![Twitter Badge](https://img.shields.io/badge/-@kunalsisodia1-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kunalsisodia1)](https://twitter.com/kunalsisodia1) 
